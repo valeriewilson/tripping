@@ -3,7 +3,29 @@
 Below is a sample of the work I've contributed to at Tripping, now that the original website has been taken down (following an acquisition).
 
 ## Table of Contents
+[Revamping the filters experience](https://github.com/valeriewilson/tripping#revamping-the-filters-experience)
 [Overhauling the error page](https://github.com/valeriewilson/tripping#overhauling-the-error-page)
+
+
+## Revamping the filters experience
+
+Work done here:
+* Identified the need for redesign of search page filters after analysis of current usage data (Google Analytics, Redshift)
+* Devised an implementation plan involving vertical grids and a mobile-first approach to responsive breakpoints, followed by iterative work with A/B tests at each stage
+* Built a working group with Product and Design to develop product specs and prioritize project with upper management, and timebox tasks
+* Built reusable components behind the expanding Amenities and Home Types
+* Built filter count replay on "Filters" and "Apply Filters" buttons
+* Added ability to sort by rating
+
+Technologies:
+* Ruby/Rails
+* JS/React
+
+**Result**: increased RPUV by 10%, booking rate by 7%
+
+### Before & After
+
+![Redesigned filters dropdown](images/filters-old-and-new.png)
 
 
 ## Overhauling the error page
@@ -14,19 +36,15 @@ Work done here:
 * Incorporated additional React components, such as the navbar, footer, and hero image to make consistent with the rest of the website
 * Refactored existing code by removing duplicate html.erb pages for each status code, replacing them with a single dynamic html.erb file; updated the routing accordingly
 
-Technologies
+Technologies:
 * Ruby/Rails
 * JS/React
 * Hypernova
 
 ### Before
 
-
 ![Old error page](images/error-page-old.png)
-
 
 ### After
 
 ![New error page](images/error-page-new.png)
-
-
