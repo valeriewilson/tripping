@@ -3,8 +3,8 @@
 Below is a sample of the work I've contributed to at Tripping, now that the original website has been taken down (following an acquisition).
 
 ## Table of Contents
-[Revamping the filters experience](https://github.com/valeriewilson/tripping#revamping-the-filters-experience)
-[Overhauling the error page](https://github.com/valeriewilson/tripping#overhauling-the-error-page)
+* [Revamping the filters experience](https://github.com/valeriewilson/tripping#revamping-the-filters-experience)
+* [Overhauling the error page](https://github.com/valeriewilson/tripping#overhauling-the-error-page)
 
 
 ## Revamping the filters experience
@@ -26,6 +26,10 @@ Technologies:
 ### Before & After
 
 ![Redesigned filters dropdown](images/filters-old-and-new.png)
+
+Expanding filter options:
+
+![Expanding filter options](images/filters-expanding-menus.png)
 
 
 ## Overhauling the error page
