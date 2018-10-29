@@ -4,6 +4,7 @@ Below is a sample of the work I've contributed to at Tripping, now that the orig
 
 ## Table of Contents
 [Revamping the filters experience](https://github.com/valeriewilson/tripping#revamping-the-filters-experience)
+
 [Overhauling the error page](https://github.com/valeriewilson/tripping#overhauling-the-error-page)
 
 
