@@ -29,7 +29,7 @@ Technologies:
 
 Expanding filter options:
 
-![Expanding filter options](images/filters-expanding-menus.png)
+![Expanding filter options](images/filters-expanding-menus.png | width=50%)
 
 
 ## Overhauling the error page
