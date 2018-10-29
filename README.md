@@ -64,13 +64,10 @@ Work done here:
 * Added Google text ads below the search results, and on zero-results pages; integrated Intent Media ads for .de and .ru sites
 * Once determined that OBC and booking rate decreased with the change from cards to rows, optimized the vertical layout on my own initiative to maximize the number of units above the fold
 
-![SRP vertical optimization](images/srp-vertical-optimization.png)
-
+![SRP vertical optimizations](images/srp-vertical-optimizations.png)
 
 Technologies:
 * Ruby/Rails
 * JS/React
 
 **Result**: 10-30% increase in search accuracy; great reception from users
-
-
