@@ -5,7 +5,7 @@ Below is a sample of the work I've contributed to at Tripping, now that the orig
 ## Table of Contents
 * [Revamping the filters experience](https://github.com/valeriewilson/tripping#revamping-the-filters-experience)
 * [Overhauling the error page](https://github.com/valeriewilson/tripping#overhauling-the-error-page)
-
+* [Overhauling and optimizing the search results page](https://github.com/valeriewilson/tripping#overhauling-and-optimizing-the-search-results-page)
 
 ## Revamping the filters experience
 
@@ -52,3 +52,25 @@ Technologies:
 ### After
 
 ![New error page](images/error-page-new.png)
+
+
+## Overhauling and optimizing the search results page
+
+Work done here:
+* Added content to new SRP rows, from ratings and review counts to the listing title and neighborhood information, as well as logos, top amenities, and price savings for deduped listings
+
+![SRP row](images/srp-row.png)
+
+* Added Google text ads below the search results, and on zero-results pages; integrated Intent Media ads for .de and .ru sites
+* Once determined that OBC and booking rate decreased with the change from cards to rows, optimized the vertical layout on my own initiative to maximize the number of units above the fold
+
+![SRP vertical optimization](images/srp-vertical-optimization.png)
+
+
+Technologies:
+* Ruby/Rails
+* JS/React
+
+**Result**: 10-30% increase in search accuracy; great reception from users
+
+
